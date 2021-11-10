@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @souravone
-- 👀 I’m interested in creating simple video games
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in creating responsive websites
+- 🌱 I’m currently learning HTML, CSS, JavaScript
 - 📫 twitter - @sourav_one
 
 <!---
